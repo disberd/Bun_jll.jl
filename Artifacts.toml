@@ -1,0 +1,42 @@
+[[Bun]]
+arch = "aarch64"
+git-tree-sha1 = "363a4f53a8fab788641c774d69959b9a8e9f781b"
+os = "macos"
+
+    [[Bun.download]]
+    sha256 = "a98be1ee1be48ab79b44db13186f56f521cb665876f9c2fa4bb230235d97d526"
+    url = "https://github.com/disberd/Bun_jll.jl/releases/download/Bun-v1.2.10+0/Bun.v1.2.10.aarch64-apple-darwin.tar.gz"
+[[Bun]]
+arch = "aarch64"
+git-tree-sha1 = "b56b9b06b0f831c654a2f021529e460ecee4122a"
+libc = "glibc"
+os = "linux"
+
+    [[Bun.download]]
+    sha256 = "1ac99ceb787dbdb34c5411beb7d35fa6f9e883acccef46b0093186a1aa0b9daf"
+    url = "https://github.com/disberd/Bun_jll.jl/releases/download/Bun-v1.2.10+0/Bun.v1.2.10.aarch64-linux-gnu.tar.gz"
+[[Bun]]
+arch = "x86_64"
+git-tree-sha1 = "2ae6ad6c3c17d13eb7bc8b332ee22f8d75b179e8"
+os = "macos"
+
+    [[Bun.download]]
+    sha256 = "e1e3cb0ed80e8d8a7b01e5ccb1c59bd3e1235b29aab2c42d88a0a8ea8d17e80f"
+    url = "https://github.com/disberd/Bun_jll.jl/releases/download/Bun-v1.2.10+0/Bun.v1.2.10.x86_64-apple-darwin.tar.gz"
+[[Bun]]
+arch = "x86_64"
+git-tree-sha1 = "42241acfe81829978782ba91df1c16e4707008ef"
+libc = "glibc"
+os = "linux"
+
+    [[Bun.download]]
+    sha256 = "7e8fef61d593c601bb33b3e5e9ff554dee95b1ffda9e346e72f6858fd026a574"
+    url = "https://github.com/disberd/Bun_jll.jl/releases/download/Bun-v1.2.10+0/Bun.v1.2.10.x86_64-linux-gnu.tar.gz"
+[[Bun]]
+arch = "x86_64"
+git-tree-sha1 = "bb1c332ba80bccd378f08764dad95970752a3367"
+os = "windows"
+
+    [[Bun.download]]
+    sha256 = "6b58518dad23619c41b37f1808957b2497c9f8078dc26b14965f991116b0c7d6"
+    url = "https://github.com/disberd/Bun_jll.jl/releases/download/Bun-v1.2.10+0/Bun.v1.2.10.x86_64-w64-mingw32.tar.gz"
